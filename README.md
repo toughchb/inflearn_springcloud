@@ -1,1 +1,2 @@
-# inflearn_springcloud
+# Spring Cloud로 개발하는 마이크로서비스 애플리케이션
+## 강의 예제 소스코드

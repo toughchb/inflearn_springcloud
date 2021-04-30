@@ -1,13 +1,13 @@
-package com.example.apipatewayservice;
+package com.example.apigatewayservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ApipatewayServiceApplication {
+public class ApigatewayServiceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ApipatewayServiceApplication.class, args);
+        SpringApplication.run(ApigatewayServiceApplication.class, args);
     }
 
 }
